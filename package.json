@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "web-tictactoe",
+  "homepage": "https://janpoonthong.github.io/web-tictactoe/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
